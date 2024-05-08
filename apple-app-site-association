@@ -1,0 +1,10 @@
+{
+  "applinks": {
+        "details": [{
+            "appIDs": ["GX2986QS73.com.sana.ec.dev.client"],
+            "components": [{
+                "/": "/dev-ec/*",
+            }]
+        }]
+    },
+}
